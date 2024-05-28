@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    border: 7px solid aqua;
+    margin: 10px 1500px 10px 10px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+h3 {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.box {
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 5px solid blue;
+    display: inline-block;
+}
